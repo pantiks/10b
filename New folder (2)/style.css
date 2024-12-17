@@ -1,0 +1,40 @@
+
+.fs {
+  font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+
+.fs1 {
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+
+  .kartinka {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+  }
+
+  .sigma1 {
+    float: left;
+    margin-right:50px ;
+    margin-left:300px ;
+    margin-top: 20px;
+  }
+  
+  
+.sigma2 {
+    float: right;
+    margin-left: 50px;
+    margin-right:300px ;
+    margin-top: 20px;
+  }
+
